@@ -9,7 +9,10 @@ To write a Python program that defines a **lambda function** which takes two arg
 3. Call the function with the user inputs and print the result.
 
 ## 🧾 Program
-Add code here
+```
+Developed By: Ashqar Ahamed S.T
+Register no: 212224240018
+```
 ```
 a = int(input())
 b = int(input())
