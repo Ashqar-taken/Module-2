@@ -12,7 +12,10 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+Developed By: Ashqar Ahamed S.T
+Register no: 212224240018
+```
 ```
 def result(a,b):
     c = a%b
