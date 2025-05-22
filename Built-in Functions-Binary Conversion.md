@@ -10,7 +10,10 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 
-Add Code Here
+```
+Developed By: Ashqar Ahamed S.T
+Register no: 212224240018
+```
 ```
 a = 16
 b = bin(a)
