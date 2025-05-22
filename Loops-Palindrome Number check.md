@@ -17,6 +17,10 @@ To write a Python program that checks whether a given number is a **palindrome**
 
 ## 🧾 Program
 ```
+Developed By: Ashqar Ahamed S.T
+Register no: 212224240018
+```
+```
 num = int(input("Enter a number: "))
 temp = num
 rev =0
